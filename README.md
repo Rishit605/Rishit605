@@ -1,13 +1,24 @@
-# 👋 Hi, My name is Rishit 
- 
-- A Developer enjoying his Machine Learning and Artificial Intelligence journey.
- 
-- 👀 I’m interested in AI and Reinforcement Learning.
- 
-- 🌱 Machine Learning Engineer!.
- 
-- 📫 Love talking about new ideas and working on them, Hit me up!
+# 👋 Hi, I'm Rishit Sisodia
 
+## 🤖 Machine Learning Engineer | 🎮 Reinforcement Learning Enthusiast
+
+I'm passionate about creating intelligent systems that can learn and adapt. Currently exploring the fascinating world of Reinforcement Learning while building practical ML solutions.
+
+### 🔭 What I'm Currently Working On
+- Building intelligent agents using Deep Reinforcement Learning
+- Developing ML-powered solutions for real-world problems
+- Experimenting with Large Language Models
+
+### 🛠️ Tech Stack
+```python
+tools = {
+    'ML/DL': ['PyTorch', 'TensorFlow', 'Scikit-learn'],
+    'RL': ['Stable-Baselines3', 'Gymnasium'],
+    'Languages': ['Python', 'SQL'],
+    'Frameworks': ['FastAPI', 'LangChain'],
+    'Data Processing': ['Pandas', 'NumPy', 'OpenCV'],
+    'DevOps': ['Git', 'GitHub Actions', 'Docker']
+}
 
 <!---
 Rishit605/Rishit605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
